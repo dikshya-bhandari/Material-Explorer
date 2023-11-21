@@ -1,0 +1,32 @@
+.explorer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    padding: 30px;
+    padding-top: 5%;
+}
+  
+  .search-input-container {
+    margin-bottom: 20px;
+    width: 70%;
+  }
+  
+  .results-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 70%;
+    border: #E0E0E0;
+    border-style: solid;
+    border-width: 1px;
+  }
+
+  .results-container .ant-list-item {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+  }
+  
