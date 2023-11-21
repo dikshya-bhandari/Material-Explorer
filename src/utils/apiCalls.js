@@ -1,4 +1,4 @@
-const API_URL = "http://192.168.100.83:4000";
+const API_URL = "https://material-explorer-backend.onrender.com";
 
 const getAllData = () =>
   new Promise((resolve, reject) => {
