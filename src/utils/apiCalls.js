@@ -1,4 +1,4 @@
-const API_URL = "https://material-explorer-backend.onrender.com";
+const API_URL = "https://material-explorer-backend.onrender.com/api";
 // const API_URL = `http://localhost:4000/api`;
 
 const getAllData = () =>
